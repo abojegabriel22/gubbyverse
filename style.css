@@ -216,3 +216,15 @@ body{
     opacity: 0.4;
     text-align: center;
 }
+
+.custom-check {
+    border: 3px solid #000;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
+
+.form-check-input:checked {
+    background-color: #ff8c00;
+    border-color: #000;
+}
