@@ -1,0 +1,94 @@
+
+@media screen and (max-width: 1050px) {
+    .button-group{
+        max-width: 90%;
+    }
+    .three-buttons{
+        font-size: 1rem;
+        /* line-height: 1.5rem; */
+    }
+    .exclusive-p{
+        font-size: 1.4rem;
+    }
+}
+@media screen and (max-width: 800px) {
+    .gubbyverse-text{
+        font-size: 2.5rem;
+    }
+    .gubbyverse-text img {
+        width: 50px;
+        height: 55px;
+    }
+    .text-gold {
+        text-shadow: 3px 3px 0px var(--black-color);
+    }
+    .wl-text{
+        font-size: 4.5rem;
+    }
+    .exclusive-p{
+        font-size: 1.3rem;
+    }
+    .go-button{
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .gubbyverse-text{
+        font-size: 1.9rem;
+    }
+    .gubbyverse-text img {
+        width: 45px;
+        height: 45px;
+    }
+    .button-group{
+        max-width: 95%;
+    }
+    .three-buttons{
+        font-size: 0.875rem;
+        line-height: normal;
+        letter-spacing: normal;
+    }
+    .wl-text{
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .gubbyverse-text{
+        font-size: 1.4rem;
+    }
+    .gubbyverse-text img {
+        width: 30px;
+        height: 35px;
+    }
+    .text-gold {
+        text-shadow: 1px 3px 0px var(--black-color);
+    }
+    .three-buttons{
+        font-size: 0.65rem;
+    }
+    .wl-text{
+        font-size: 2.8rem;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .gubbyverse-text{
+        font-size: 1.1rem;
+    }
+    .gubbyverse-text img {
+        width: 25px;
+        height: 30px;
+    }
+    .wl-text{
+        font-size: 2.5rem;
+    }
+    .task-text{
+        font-size: 0.8rem;
+    }
+    .go-btn{
+        padding: 0.5rem 0.5rem;
+    }
+
+}
