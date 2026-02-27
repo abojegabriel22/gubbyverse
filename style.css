@@ -150,6 +150,10 @@ body{
   background: white;
   font-size: 0.875rem;
 }
+.task-a{
+    color: var(--black-color);
+    transition: color 0.2s;
+}
 
 /* GO button */
 .go-btn {
