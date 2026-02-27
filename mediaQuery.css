@@ -3,10 +3,10 @@
     .button-group{
         max-width: 90%;
     }
-    .three-buttons{
+    /* .three-buttons{
         font-size: 1rem;
-        /* line-height: 1.5rem; */
-    }
+        line-height: 1.5rem;
+    } */
     .exclusive-p{
         font-size: 1.4rem;
     }
@@ -14,6 +14,7 @@
 @media screen and (max-width: 800px) {
     .gubbyverse-text{
         font-size: 3rem;
+        padding-top: 15px;
     }
     .gubbyverse-text img {
         width: 50px;
@@ -38,7 +39,8 @@
 
 @media screen and (max-width: 500px) {
     .gubbyverse-text{
-        font-size: 2.6rem;
+        font-size: 2rem;
+        padding-top: 13px;
     }
     .gubbyverse-text img {
         width: 45px;
@@ -48,9 +50,7 @@
         max-width: 95%;
     }
     .three-buttons{
-        font-size: 0.875rem;
-        line-height: normal;
-        letter-spacing: normal;
+        font-size: 1.5rem;
     }
     .wl-text{
         font-size: 3rem;
@@ -68,9 +68,9 @@
     .text-gold {
         text-shadow: 1px 3px 0px var(--black-color);
     }
-    .three-buttons{
+    /* .three-buttons{
         font-size: 0.65rem;
-    }
+    } */
     .wl-text{
         font-size: 2.8rem;
     }
@@ -81,8 +81,8 @@
         font-size: 1.1rem;
     } */
     .gubbyverse-text img {
-        width: 25px;
-        height: 30px;
+        width: 50px;
+        height: 50px;
     }
     .wl-text{
         font-size: 2.5rem;
